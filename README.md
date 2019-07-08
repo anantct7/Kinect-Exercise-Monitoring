@@ -8,10 +8,3 @@ This project was created as a part of our 6th Semester project which was of 5 ce
 * C++
 * X-Box Kinect
 * Visual Studio
-
-## Authors
-* Suras Kumar Nayak
-* Kamal Nayan Chaubey
-* Mohammad Aquib
-* Anant Chaturvedi
-* Saurabh Kumar
