@@ -2,7 +2,7 @@
 This is a motion capture framework designed using X-Box Kinect. It can track various human exercises and provide live analysis of how close a user is performing the excercise when compared to an expert.
 
 ## Preface
-This project was created as a part of our 6th Semester project which was of 5 cerdits.
+This project was created as a part of our 6th Semester project which was of 5 credits.
 
 ## Technologies used
 * C++
